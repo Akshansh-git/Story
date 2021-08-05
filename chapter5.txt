@@ -1,0 +1,9 @@
+This is chapter 5.
+
+Stocks are bought and sold predominantly
+on stock exchanges, though there can be
+private sales as well, and are the foundation
+of many individual investors' portfolios.
+These transactions have to conform to government
+regulations which are meant to protect investors
+from fraudulent practices.  
